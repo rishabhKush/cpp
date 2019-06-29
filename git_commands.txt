@@ -1,0 +1,6 @@
+
+git config --list
+
+//update name/email
+git config --global user.email "drishabh898@gmail.com"
+git config --global user.name "rishabhKush"
