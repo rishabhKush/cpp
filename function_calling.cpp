@@ -2,7 +2,7 @@
 
 Learning Different ways to call a function.
 *******************************************************************************/
- 
+ hello
 
 #include <iostream>
 using namespace std;
