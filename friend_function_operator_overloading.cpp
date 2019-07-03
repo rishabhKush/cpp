@@ -18,6 +18,8 @@ class Complex{
 
         cout <<"sum is : " << a+b;
     }
+    
+    friend Complex operator+(Complex , Complex);
 };
 
 
